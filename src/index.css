@@ -94,17 +94,17 @@
   
   .bg-grid-pattern {
     background-image: 
-      linear-gradient(rgba(56, 189, 248, 0.1) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(56, 189, 248, 0.1) 1px, transparent 1px);
+      linear-gradient(rgba(50, 212, 194, 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(50, 212, 194, 0.1) 1px, transparent 1px);
     background-size: 50px 50px;
   }
   
   .bg-cyber-grid {
     background-image: 
-      linear-gradient(rgba(168, 85, 247, 0.1) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(168, 85, 247, 0.1) 1px, transparent 1px),
-      linear-gradient(rgba(34, 211, 238, 0.05) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(34, 211, 238, 0.05) 1px, transparent 1px);
+      linear-gradient(rgba(91, 95, 221, 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(91, 95, 221, 0.1) 1px, transparent 1px),
+      linear-gradient(rgba(50, 212, 194, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(50, 212, 194, 0.05) 1px, transparent 1px);
     background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
   }
   

@@ -61,7 +61,10 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'devora-dark': '#2B1B4F',
+				'devora-cyan': '#32D4C2',
+				'devora-purple': '#5B5FDD'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
